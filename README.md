@@ -7,5 +7,5 @@ This is Simple Chat Application in Java. Gui was made using Java Swing. Sockets 
 
 ### Images
 
-![Images/ServerInterface.PNG]()
-![Images/ClientInterface.PNG]()
+![](Images/ServerInterface.PNG)
+![](Images/ClientInterface.PNG)
